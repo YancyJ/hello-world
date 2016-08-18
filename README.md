@@ -1,2 +1,3 @@
 # hello-world
-new
+Hi ,humans!
+Hubot here,I like node.
